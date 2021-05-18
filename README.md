@@ -16,6 +16,16 @@ Esse é o meu repositório de projetos acadêmicos e serviços.
 <a href="https://github.com/josegustavo312/java-curso-jsp"><img alt="PostgreSQL" title="PostgreSQL" width="48" src="./README/postgresql.png"/></a>
 <a href="https://github.com/josegustavo312/android-Organizze"><img alt="Firebase" title="Firebase" width="48" src="./README/firebase.png"/></a>
 
+---
+
+:gear: <b>GitHub Analytics</b>:
+<p align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josegustavo312&show_icons=true&theme=tokyonightlight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josegustavo312&layout=compact&langs_count=8&theme=tokyonightlight&include_all_commits=true&count_private=true"/>
+</p>
+
+---
+
 [**LinkedIn:**](https://www.linkedin.com/in/jose-gustavo312/)
 
 <a href="https://www.linkedin.com/in/jose-gustavo312/"><img alt="Gustavo LinkedIn" title="Gustavo LinkedIn" width="48" height="auto" src="./README/linkedin.png"/></a>
